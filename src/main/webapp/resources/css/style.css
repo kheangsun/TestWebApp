@@ -1,0 +1,22 @@
+#header{
+	color:red;
+}
+table, th, td{
+	border-collapse:collapse;
+	border:1px solid black;
+}
+
+th, td{
+	padding:7px 30px;
+}
+
+#view, #edit, #delete{
+	text-decoration:none; 
+}
+
+#view, #edit{
+	padding-right:5px;
+}
+#delete{
+	color:red;
+}
